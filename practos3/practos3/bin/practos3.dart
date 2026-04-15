@@ -4,7 +4,6 @@ import 'dart:io';
 import 'dart:math';
 import 'package:characters/characters.dart';
 
-// Перечисление настроений
 enum Mood {
   
   happy(emoji: '\u{1F600}', description: 'счастливый', energy: 8),
